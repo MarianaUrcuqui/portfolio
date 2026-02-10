@@ -34,12 +34,16 @@ function About() {
             <h4 className="skill">Blender</h4>
             <h4 className="skill">Adobe Animate</h4>
             <h4 className="skill">React</h4>
+            <h4 className="skill">NextJS</h4>
             <h4 className="skill">JavaScript</h4>
+            <h4 className="skill">TypeScript</h4>
+            <h4 className="skill">Tailwind</h4>
             <h4 className="skill">GitHub</h4>
             <h4 className="skill">git</h4>
             <h4 className="skill">Terminal</h4>
             <h4 className="skill">HTML</h4>
             <h4 className="skill">CSS</h4>
+            <h4 className="skill">WooCommerce</h4>
           </div>
         </div>
       </div>
