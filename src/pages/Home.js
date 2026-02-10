@@ -10,7 +10,7 @@ function Home() {
         <h1 className="home-title">Hey, I'm Mariana Urcuqui</h1>
         <p className="home-paragraph">
           And I made this website from scratch to show you my projects and how
-          excited I am to dive into the world of game development
+          excited I am to dive into the world of game and web development
         </p>
       </div>
       <h1 className="projects-title">My Projects</h1>
