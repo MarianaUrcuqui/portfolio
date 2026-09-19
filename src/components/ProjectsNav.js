@@ -15,12 +15,20 @@ function ProjectsNav() {
           Project 1
         </NavLink>
         <NavLink
-          to="project03"
+          to="project02"
           style={({ isActive }) =>
             isActive ? { textDecoration: "underline" } : null
           }
         >
           Project 2
+        </NavLink>
+        <NavLink
+          to="project03"
+          style={({ isActive }) =>
+            isActive ? { textDecoration: "underline" } : null
+          }
+        >
+          Project 3
         </NavLink>
       </nav>
     </div>

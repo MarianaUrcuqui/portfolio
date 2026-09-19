@@ -15,13 +15,17 @@ function About() {
         <div className="about-subdiv">
           <h2 className="about-subtitle">A little about me</h2>
           <p className="about-paragraph">
-            Hey, I'm Mariana, a self-taught programmer with a passion for game
-            development, arts, and sports. Currently, I'm studying for a
-            bachelor's degree in Digital Games at Technische Hochschule Koeln in
-            Germany, expanding my expertise in gameplay programming. With a
-            background in front-end development, I bring different viewpoints
-            and solutions to every problem and project. Eager to learn new
-            development methods and acquire new skills to enhance my work.
+            Hey, I'm Mariana. I'm currently studying VSI MINT at Saarland
+            University, preparing to continue my studies in Computer Science. My
+            background is in software development, with experience in web
+            technologies, interactive applications, and game development.
+          </p>
+          <p className="about-paragraph">
+            What interests me most is understanding how technology works beyond
+            the screen. I'm currently expanding my knowledge from software
+            development into computer architecture, digital logic, and the
+            hardware-software interface, with the long-term goal of working with
+            systems that can interact with the physical world.
           </p>
         </div>
         <div className="about-subdiv">
@@ -31,19 +35,17 @@ function About() {
             <h4 className="skill">Unity</h4>
             <h4 className="skill">Godot</h4>
             <h4 className="skill">GDScript</h4>
-            <h4 className="skill">Blender</h4>
-            <h4 className="skill">Adobe Animate</h4>
             <h4 className="skill">React</h4>
             <h4 className="skill">NextJS</h4>
-            <h4 className="skill">JavaScript</h4>
             <h4 className="skill">TypeScript</h4>
+            <h4 className="skill">JavaScript</h4>
             <h4 className="skill">Tailwind</h4>
             <h4 className="skill">GitHub</h4>
-            <h4 className="skill">git</h4>
             <h4 className="skill">Terminal</h4>
-            <h4 className="skill">HTML</h4>
-            <h4 className="skill">CSS</h4>
             <h4 className="skill">WooCommerce</h4>
+            <h4 className="skill">PixiJS</h4>
+            <h4 className="skill">IndexedDB</h4>
+            <h4 className="skill-to-learn">Learning Python</h4>
           </div>
         </div>
       </div>
