@@ -25,6 +25,10 @@ function Project01() {
         design and story distribution purposes, the project intends to partner
         with end-of-life care programs that focus on psycho-spiritual
         well-being. <br />
+        The project was developed as a master's thesis by a student in the
+        Digital Narratives program at the International Film School Cologne
+        (ifs).
+        <br />
         2D browser game with low cognitive and physical demands—click and point
         mechanics plus user-generated content uploaded via audio, text, and
         image
